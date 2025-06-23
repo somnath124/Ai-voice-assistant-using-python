@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# IDE & system files
+.vscode/
+.DS_Store
+
+# Media and screenshots
+media/
+*.gif
+*.png
